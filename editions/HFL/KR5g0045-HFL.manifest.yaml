@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0045/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5g0045/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上出家傳度儀
+  date: '2015-08-29 02:49:27.037689'
+  source:
+    repository: kanripo
+    path: KR5g0045
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0045_000-HFL.yaml, hash: 'sha256:638b0643ba182ffb949655d9fed7be76e14c863be58d6ce1ea745860ef839b54'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0045_000-HFL.markers.yaml, hash: 'sha256:1bebbc7eb2153ad86f0cbbc1f216f17630828a117b893a33d410d428d8dbb6d2'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0045_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 3816
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:339c44cba4f4d3b0bb2c6177d94c040f24a3518ad51917174f975f1980225eb7

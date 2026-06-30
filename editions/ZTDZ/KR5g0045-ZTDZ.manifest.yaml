@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0045/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5g0045/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上出家傳度儀
+  date: '2015-08-29 02:49:27.037689'
+  source:
+    repository: kanripo
+    path: KR5g0045
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0045_000-ZTDZ.yaml, hash: 'sha256:d02f52a58614efa622751f57598e9f7873e74b7540acc0953f98fe88092a4a6f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0045_000-ZTDZ.markers.yaml, hash: 'sha256:d1eaa90c665924c8d8be6d2650660f13a141e77eba25a026a62b0384ff9fb144'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0045_SJB_000-320161b
+    span:
+    - body
+    - 0
+    - 3816
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:e6ef0f6482fe7441c7c49648fd22d92db1bd1ab7cd1abe6ac79e7e6292bd7eb1
